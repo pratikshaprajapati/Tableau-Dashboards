@@ -24,4 +24,4 @@ This dashboard provides insights into workforce demographics, compensation trend
 You can view the live dashboard on Tableau Public: [Click Here](https://public.tableau.com/your-dashboard-link)
 
 ## Screenshots
-
+HR Dashboard/HR_Dashboard_Tableau.png
