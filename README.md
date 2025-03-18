@@ -49,7 +49,7 @@ The **Stock Performance Dashboard** helps track stock market trends, analyze por
 Feel free to connect with me for discussions or collaborations:  
  
 📧 **Email:** pratikshap800@gmail.com
-🔗 **LinkedIn:** https://www/linkedin.co/in/pratikshap 
+🔗 **LinkedIn:** https://www/linkedin.com/in/pratikshap 
 🌐 **Tableau Public:** https://public.tableau.com/app/profile/pratiksha.prajapati/vizzes
  
 ---
